@@ -6,4 +6,4 @@ server:
   port: 8765
 spring:
   profiles: default
-foo:123131
+foo: 123131
